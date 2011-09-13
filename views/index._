@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>socketbench</title>
+    
+    <style type="text/css">
+      body { padding: 1em 8em; font-family: Arial, sans-serif; }
+      pre { font-family: mono; background-color: #eee; padding: 1em; }
+    </style>
+
+    <!-- scripts -->
+    <script src="/js/Stats.js"></script>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
+    <script src="/js/script.js"></script>
+  </head>
+  <body>
+    <div id="page"></div>
+  </body>
+</html>
